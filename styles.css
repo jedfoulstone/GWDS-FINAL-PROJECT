@@ -274,3 +274,8 @@ p {
     
 
 }
+
+.ref {
+    color: #4f80ff;
+    cursor: pointer;
+}
